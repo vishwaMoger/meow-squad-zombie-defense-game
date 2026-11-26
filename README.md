@@ -21,12 +21,6 @@
   <sub>Free, no download, no sign-up. Plays on desktop and mobile, in landscape or portrait.</sub>
 </p>
 
-<p align="center">
-  <a href="[https://playgama.com/game/meow-squad-zombie-defense](https://youtube.com/playables/UgkxzBSMUiKSNh0Z9n4BF3Ac0T8JSGTbcxeu?si=6CW3GR3xbd6NYY_g)">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-Free%20in%20your%20browser-ff9f8c?style=for-the-badge" alt="Play Meow Squad now" height="48">
-  </a>
-</p>
-
 
 ---
 
